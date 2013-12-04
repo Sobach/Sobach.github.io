@@ -43,7 +43,7 @@ tags : [4square, тезисы]
 [Визуализации карты и кластеров](http://prezi.com/3wiqf2v72ip-/4sq-eng/)
 
 <div>
-<iframe src="http://prezi.com/embed/3wiqf2v72ip-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="740" height="500" frameBorder="0">    </iframe>
+<iframe src="http://prezi.com/embed/3wiqf2v72ip-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="740" height="500" frameBorder="0">&nbsp;</iframe>
 </div>
 
 ## Литература
