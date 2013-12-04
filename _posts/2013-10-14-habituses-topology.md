@@ -1,7 +1,8 @@
 ---
 layout: post
 category : заметки
-tagline: "Supporting tagline"
+title: Габитусная топология
+tagline: "классификация пользователей социальных сетей на основе геосоциальных саморепрезентаций"
 tags : [4square, тезисы]
 ---
 {% include JB/setup %}
