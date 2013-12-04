@@ -1,9 +1,9 @@
 ---
 layout: post
-category : заметки
+category : переводы
 title: Оценка размера аудитории в Facebook
-tagline: "классификация пользователей социальных сетей на основе геосоциальных саморепрезентаций"
-tags : [4square, тезисы]
+tagline: ""
+tags : [Facebook, аудитория, исследование, перевод]
 ---
 {% include JB/setup %}
 
