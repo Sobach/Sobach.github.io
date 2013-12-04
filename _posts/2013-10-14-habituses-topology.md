@@ -38,12 +38,6 @@ tags : [4square, тезисы]
 
 Дальнейший анализ состоял в картографировании выявленного пространства из 400 наиболее популярных для "чекинов" мест Москвы. "Расстояние" и взаимное расположение мест на этой карте определялось не физической географией, а близостью в рамках полученных на первом этапе "габитусов". Полученная карта обозначила "районы" социального пространства, относящиеся, например, к общественному транспорту, досуговым ночным заведениям и т.д.
 
-## Дополнительные материалы
-
-[Визуализации карты и кластеров](http://prezi.com/3wiqf2v72ip-/4sq-eng/)
-
-<iframe src="http://prezi.com/embed/3wiqf2v72ip-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="740" height="500" frameBorder="0"></iframe>
-
 ## Литература
 
 1. Бурдьё П. [Bourdieu P.] Социология социального пространства. Москва: Институт экспериментальной социологии, 2007.
@@ -55,3 +49,9 @@ tags : [4square, тезисы]
 7. Ng A., Jordan M., Blei D. Latent Dirichlet allocation // Journal of Machine Learning Research. 2003. Vol. 3. P. 993–1022.
 8. Nilsson S., Svensson L. Interaction and self-presentation online: Ananalysis of blogs, virtual communities and places of serendipitous interaction // Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2007 / Ed. by T.Bastiaens, S.Carliner. Canada, Quebec City. 2007. P. 7305–7309.
 9. Trammell D., Keshelashvili A. Examining the New Influencers: A Self-Presentation Study of A-List Blogs // Journalism Mass Communication Quarterly.  2005. Vol. 82. P. 968–682.
+
+## Дополнительные материалы
+
+[Визуализации карты и кластеров](http://prezi.com/3wiqf2v72ip-/4sq-eng/)
+
+<iframe src="http://prezi.com/embed/3wiqf2v72ip-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="740" height="500" frameBorder="0"></iframe>
