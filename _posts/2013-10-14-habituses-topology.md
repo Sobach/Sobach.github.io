@@ -42,6 +42,8 @@ tags : [4square, тезисы]
 
 [Визуализации карты и кластеров](http://prezi.com/3wiqf2v72ip-/4sq-eng/)
 
+<iframe src="http://prezi.com/embed/3wiqf2v72ip-/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0"></iframe>
+
 ## Литература
 
 1. Бурдьё П. [Bourdieu P.] Социология социального пространства. Москва: Институт экспериментальной социологии, 2007.
