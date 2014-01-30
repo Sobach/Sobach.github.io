@@ -8,7 +8,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            \#PetriDish
+title:            '#PetriDish'
 tagline:          'social media'
 description:      'my works arount social media theme'
 url:              http://www.facebook.com/atolmach
