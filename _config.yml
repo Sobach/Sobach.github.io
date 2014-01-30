@@ -8,10 +8,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            smapy
-tagline:          'social media anatomist'
-description:      'Socail media anatomist for Python <br/> Documentation'
-url:              http://sobach.github.io/smapy/
+title:            \#PetriDish
+tagline:          'social media'
+description:      'my works arount social media theme'
+url:              http://www.facebook.com/atolmach
 
 author:
   name:           'Alexander Tolmach'
@@ -21,6 +21,3 @@ paginate:         5
 
 # Custom vars
 version:          0.0.0
-
-github:
-  repo:           http://github.com/Sobach/smapy/
