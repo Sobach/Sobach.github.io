@@ -5,7 +5,6 @@ title: Габитусная топология
 tagline: "классификация пользователей социальных сетей на основе геосоциальных саморепрезентаций"
 tags : [4square, тезисы]
 ---
-{% include JB/setup %}
 
 ## 1. Саморепрезентация в социальных сетях
 
@@ -49,11 +48,19 @@ tags : [4square, тезисы]
 ## Литература
 
 1. Бурдьё П. [Bourdieu P.] Социология социального пространства. Москва: Институт экспериментальной социологии, 2007.
+
 2. Гофман И. [Goffman E.] Представление себя другим в повседневной жизни. Москва: "КАНОН-пресс-Ц", 2000.
+
 3. Пресс-выпуск №1691: «О чем врут пользователи социальных сетей?» [Электронный ресурс] // Сайт ВЦИОМ. URL: http://wciom.ru/index.php?id=459&uid=111364 (дата обращения: 12.09.2013).
+
 4. Щекотуров  А.  Гендерные  саморепрезентации  подростков на  страницах  социальной  сети  "ВКонтакте"  //  Мониторинг общественного мнения. 2012. Июль–август. вып. 110, №4. С. 80–88.
+
 5. Lewis K., Kaufman J., Christakis N. The Taste for Privacy: An Analysis of College Student Privacy Settings in an Online Social Network // Journal of Computer-Mediated Communication. 2008. Vol. 14(1). P. 79–100.
+
 6. Manago A., Graham M. Greenfield P., Salimkhan G. Self-presentation  and  gender  on  MySpace // Journal of Applied Developmental Psychology. 2008.  Vol. 29(6). P. 446–458.
+
 7. Ng A., Jordan M., Blei D. Latent Dirichlet allocation // Journal of Machine Learning Research. 2003. Vol. 3. P. 993–1022.
+
 8. Nilsson S., Svensson L. Interaction and self-presentation online: Ananalysis of blogs, virtual communities and places of serendipitous interaction // Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2007 / Ed. by T.Bastiaens, S.Carliner. Canada, Quebec City. 2007. P. 7305–7309.
+
 9. Trammell D., Keshelashvili A. Examining the New Influencers: A Self-Presentation Study of A-List Blogs // Journalism Mass Communication Quarterly.  2005. Vol. 82. P. 968–682.
