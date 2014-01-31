@@ -10,6 +10,6 @@ title: Posts by tags
         <a href="/tag/{{ tag | first | slugize }}/">
             {{ tag | first }}
         </a>
-        <p>{{ tag | size }}</p>
+        <p>{{ tag | last | size }}</p>
     </li>
 {% endfor %}
