@@ -18,6 +18,7 @@ author:
   url:            http://www.facebook.com/atolmach
 
 paginate:         10
+paginate_path: "page:num"
 
 # Custom vars
 version:          0.0.0
