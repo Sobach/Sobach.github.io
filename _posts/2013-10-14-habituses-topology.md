@@ -1,6 +1,6 @@
 ---
 layout: post
-category : заметки
+category : proceedings
 title: Габитусная топология
 tagline: "классификация пользователей социальных сетей на основе геосоциальных саморепрезентаций"
 tags : [foursquare, proceedings, geosocial]
