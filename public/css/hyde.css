@@ -277,8 +277,8 @@ a.sidebar-nav-item:focus {
   text-decoration: none; }
 
 .tag:visited {
-  color: #888 !important; }
+  color: #ccc !important; }
 
 .tag:hover {
   background: #ccc;
-  color: #777 !important; }
+  color: #d28445 !important; }
