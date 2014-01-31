@@ -5,8 +5,10 @@ title: Posts by tags
 
 <h1>Posts by tags</h1>
 
-{% for tag in site.tags %}
-    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 200}}%">
-        <a href="/tag/{{ tag | first | slugize }}/">{{ tag | first }}</a> <p>{{ tag | last | size }}</p>
+<ul class="tags">
+  {% for tag in site.tags %}
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 100}}%">
+        <a class = "tag" href="/tag/{{ tag | first | slugize }}/">{{ tag | first }}</a>
     </li>
-{% endfor %}
+  {% endfor %}
+</ul>
