@@ -8,9 +8,7 @@ layout: default
   
   <ul class="tags">
   {% for tag in post.tags %}
-    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 10}}%">
-        <a class = "tag" href="/tag/{{ tag | first | slugize }}/">{{ tag | first }}</a>
-    </li>
+    <li><a class = "tag" href="/tag/{{ tag | first }}/">{{ tag | first }}</a></li>
   {% endfor %}
   </ul>
   {{ content }}
