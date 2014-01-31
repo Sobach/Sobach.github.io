@@ -7,7 +7,7 @@ title: Home
 
   <!-- using the split filter -->
   {% for post in site.posts limit:10 %}
-    {% if post.tag contains 'Facebook' %}
+    {% if post.tags contains 'Facebook' %}
   
      <div class="post">
          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
