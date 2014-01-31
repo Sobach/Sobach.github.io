@@ -1,7 +1,7 @@
 ---
 layout: post
 category : research
-title: 'Mood\'o\'Meter'
+title: 'Mood-o-Meter'
 tags : [twitter, research, audience]
 ---
 
