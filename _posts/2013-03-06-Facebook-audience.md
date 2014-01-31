@@ -2,7 +2,7 @@
 layout: post
 category : переводы
 title: Оценка размера аудитории в Facebook
-tags : [Facebook, аудитория, исследование, перевод]
+tags : [facebook, audience, research, translation]
 ---
 
 Как вы думаете, сколько людей видят контент, который вы публикуете в Facebook? Скорее всего, вы ошибаетесь.

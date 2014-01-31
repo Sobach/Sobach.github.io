@@ -3,7 +3,7 @@ layout: post
 category : заметки
 title: Габитусная топология
 tagline: "классификация пользователей социальных сетей на основе геосоциальных саморепрезентаций"
-tags : [4square, тезисы, geosocial]
+tags : [foursquare, proceedings, geosocial]
 ---
 
 ## 1. Саморепрезентация в социальных сетях
