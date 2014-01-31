@@ -3,7 +3,7 @@ layout: default
 title: Tags - Facebook
 ---
 
-# Tags: Facebook
+<h1>Tags: Facebook</h1>
 
 <div class="posts">
 
@@ -12,7 +12,7 @@ title: Tags - Facebook
     {% if post.tags contains 'Facebook' %}
   
      <div class="post">
-         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
          <span class="post-date">{{ post.date | date_to_string }}</span>
        
          {{ post.content | split:'<!--break-->' | first }}

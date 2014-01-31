@@ -3,13 +3,10 @@ layout: page
 title: Posts by tags
 ---
 
-# Posts by tags
+<h1>Posts by tags</h1>
 
 {% for tag in site.tags %}
     <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 200}}%">
-        <a href="/tag/{{ tag | first | slugize }}/">
-            {{ tag | first }}
-        </a>
-        <p>{{ tag | last | size }}</p>
+        <a href="/tag/{{ tag | first | slugize }}/">{{ tag | first }}</a> <p>{{ tag | last | size }}</p>
     </li>
 {% endfor %}
