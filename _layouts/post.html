@@ -8,7 +8,7 @@ layout: default
   
   <ul class="tags">
   {% for tag in page.tags %}
-    <li><a class = "tag" href="/tag/{{ tag | first | slugize }}/">{{ tag | first }}</a></li>
+    <li><a class = "tag" href="/tag/{{ tag }}/">{{ tag }}</a></li>
   {% endfor %}
   </ul>
   {{ content }}
