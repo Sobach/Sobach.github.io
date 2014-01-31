@@ -17,7 +17,7 @@ author:
   name:           'Alexander Tolmach'
   url:            http://www.facebook.com/atolmach
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          0.0.0
