@@ -5,7 +5,7 @@ redcarpet:
 pygments:         true
 
 # Permalinks
-permalink:        /:year/:month/:title/
+permalink:        pretty
 
 # Setup
 title:            '#PetriDish'
