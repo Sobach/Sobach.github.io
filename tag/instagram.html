@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Tags: instagram"
+---
+
+<h1>Tags: instagram</h1>
+
+<div class="posts">
+
+  <!-- using the split filter -->
+  {% for post in site.posts %}
+    {% if post.tags contains 'instagram' %}
+  
+     <div class="post">
+         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+         <span class="post-date">{{ post.date | date_to_string }}</span>
+       
+         {{ post.content | split:'<!--break-->' | first }}
+         {% if post.content contains '<!--break-->' %}
+            <a href="{{ post.url }}">read more...</a>
+         {% endif %}
+       </div>
+       <hr>
+     {% endif%}
+  {% endfor %}
+</div>
