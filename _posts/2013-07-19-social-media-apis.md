@@ -1,8 +1,8 @@
 ---
 layout: post
-category : other
+category : tutorials
 title: '"ЭйПиАй, ЭйПиАй, кого хочешь выбирай"'
-tags : [twitter, facebook, vkontakte, 'google plus', instagram, youtube, foursquare, odnoklassniki, livejournal]
+tags : [twitter, facebook, vkontakte, 'google plus', instagram, youtube, foursquare, odnoklassniki, livejournal, tutorial]
 ---
 
 Думаю, в штате каждой крупной социально-сетевой площадки сегодня имеется Data Science Team. 
